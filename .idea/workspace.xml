@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="954620d4-196d-40cc-8255-011d77eefd97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/web develop/icp2/grid/grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web develop/icp2/grid/grid.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/Inclass/CSS_Inclass/GoogleTask/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/Inclass/CSS_Inclass/GoogleTask/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/Inclass/CSS_Inclass/ToDo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/UC-Examples/CSS_Example/google-homepage/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/UC-Examples/CSS_Example/google-homepage/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/UC-Examples/HTML_Example/basicHTML.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/UC-Examples/HTML_Example/formRegistration.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/UC-Examples/HTML_Example/images/img1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/UC-Examples/HTML_Example/images/img2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/UC-Examples/HTML_Example/images/img3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/UC-Examples/HTML_Example/images/img4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/UC-Examples/HTML_Example/images/img5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/UC-Examples/HTML_Example/images/img6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/UC-Examples/HTML_Example/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/UC-Examples/HTML_Example/tables.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web develop/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web develop/icp2/google css work/CSS_Inclass/GoogleTask/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web develop/icp2/google css work/CSS_Inclass/GoogleTask/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +69,7 @@
       <workItem from="1630519402587" duration="657000" />
       <workItem from="1630610186618" duration="1019000" />
       <workItem from="1630685175411" duration="18292000" />
-      <workItem from="1630775731257" duration="7259000" />
+      <workItem from="1630775731257" duration="8161000" />
     </task>
     <servers />
   </component>
