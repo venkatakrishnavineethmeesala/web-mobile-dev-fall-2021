@@ -58,13 +58,22 @@ body {
   font-weight: bold;
   text-decoration: none !important;
 }
+/*css for profile pic*/
+.profile_pic{
+  width: 32px;
+  height: 32px;
+  border: 1px solid black;
+  border-radius: 50%;
+}
+
+
 
 .main-content {
   position: relative;
   width: 450px;
   height: 250px;
   margin: 0 auto;
-  top: 25vh;
+  top: 35vh;
   display: flex;
   justify-content: center;
   align-content: center;
@@ -137,6 +146,23 @@ p {
 .buttons button:hover {
   border: solid 1px #BBB;
 }
+
+.block {
+  display: grid;
+  grid-template-columns: repeat(4, 2fr);
+  gap: 6px;
+}
+.block_element{
+  border:2px solid gray;
+  border-radius: 2%;
+
+}
+.block_element:hover{
+  border: 3px solid black;
+  border-radius: 5%;
+}
+
+
 footer {
   position: absolute;
   width: 100vw;

@@ -2,16 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="954620d4-196d-40cc-8255-011d77eefd97" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/web develop/icp2/grid/grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web develop/icp2/grid/grid.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web develop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web develop/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/Inclass/CSS_Inclass/GoogleTask/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/Inclass/CSS_Inclass/GoogleTask/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/Inclass/CSS_Inclass/ToDo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/UC-Examples/CSS_Example/google-homepage/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/UC-Examples/CSS_Example/google-homepage/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/UC-Examples/HTML_Example/basicHTML.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/UC-Examples/HTML_Example/formRegistration.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/UC-Examples/HTML_Example/images/img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/UC-Examples/HTML_Example/images/img2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/UC-Examples/HTML_Example/images/img3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/UC-Examples/HTML_Example/images/img4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/UC-Examples/HTML_Example/images/img5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/UC-Examples/HTML_Example/images/img6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/UC-Examples/HTML_Example/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Web_Lesson2/UC-Examples/HTML_Example/tables.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web develop/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
@@ -22,15 +55,21 @@
     </option>
   </component>
   <component name="ProjectId" id="1xMYrqcEECqPt7f9QYbTeNOcNEb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -46,6 +85,8 @@
       <workItem from="1630432467434" duration="7389000" />
       <workItem from="1630519402587" duration="657000" />
       <workItem from="1630610186618" duration="1019000" />
+      <workItem from="1630685175411" duration="18292000" />
+      <workItem from="1630775731257" duration="7259000" />
     </task>
     <servers />
   </component>
@@ -53,6 +94,7 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
