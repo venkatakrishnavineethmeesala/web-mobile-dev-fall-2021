@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="954620d4-196d-40cc-8255-011d77eefd97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/web develop/icp2/htmlpage/flower.webm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web develop/icp2/images/htmlpage1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web develop/icp2/images/google api.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web develop/icp2/images/google grid.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web develop/icp2/images/google notification.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web develop/icp2/images/gridhtml.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web develop/icp2/images/html3.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web develop/icp2/images/webpage1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web develop/icp2/images/webpage2.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web develop/icp2/htmlpage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web develop/icp2/htmlpage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web develop/icp2/google css work/GoogleTask/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web develop/icp2/google css work/GoogleTask/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +76,8 @@
       <workItem from="1630519402587" duration="657000" />
       <workItem from="1630610186618" duration="1019000" />
       <workItem from="1630685175411" duration="18292000" />
-      <workItem from="1630775731257" duration="10541000" />
+      <workItem from="1630775731257" duration="10607000" />
+      <workItem from="1630900492275" duration="1875000" />
     </task>
     <servers />
   </component>
