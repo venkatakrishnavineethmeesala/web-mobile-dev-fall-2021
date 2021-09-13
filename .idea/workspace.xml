@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="954620d4-196d-40cc-8255-011d77eefd97" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web develop/icp3/task2-icp3/Web_Lesson3/InClassProgramming/RWD Task/input/input.html" beforeDir="false" afterPath="$PROJECT_DIR$/web develop/icp3/task2-icp3/Web_Lesson3/InClassProgramming/RWD Task/input/input.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -72,7 +71,7 @@
       <workItem from="1630685175411" duration="18292000" />
       <workItem from="1630775731257" duration="10607000" />
       <workItem from="1630900492275" duration="3661000" />
-      <workItem from="1631307524521" duration="35134000" />
+      <workItem from="1631307524521" duration="35974000" />
     </task>
     <servers />
   </component>
