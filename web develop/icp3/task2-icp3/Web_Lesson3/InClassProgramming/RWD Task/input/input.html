@@ -13,46 +13,60 @@ TODO:
 <head>
     <title>RWD Task</title>
     <meta content="text/html; charset=windows-1252" http-equiv="Content-Type">
+<!--  bootstrap  -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+          crossorigin="anonymous">
+<!--   font link -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Roboto+Mono:wght@200&display=swap"
+          rel="stylesheet">
+
+
 </head>
-<body>
-<div>
-    <div><img alt="PlaceHolderImage1" src="PlaceHolderImages/100x100"></div>
-    <div>
-        <h1></h1>
-        <h3>Designation</h3>
-    </div>
-</div>
-<div>
-    <img alt="PlaceHolderImage2" src="PlaceHolderImages/1140x350">
-</div>
-<div>
-    <h2>Featured Work </h2>
-</div>
-<div>
-    <div>
-        <img alt="PlaceHolderImage3" src="PlaceHolderImages/555x300">
-        <h3>App1</h3>
-        <p><a href="#">Link to project</a></p>
-    </div>
-    <div>
-        <img alt="PlaceHolderImage3" src="PlaceHolderImages/555x300">
-        <h3>App2</h3>
-        <p><a href="#">Link to project</a></p>
-    </div>
-</div>
-<div>
-    <div>
-        <img alt="PlaceHolderImage3" src="PlaceHolderImages/555x300">
-        <h3>App3</h3>
-        <p><a href="#">Link to project</a></p>
-    </div>
-    <div>
-        <img alt="PlaceHolderImage3" src="PlaceHolderImages/555x300">
-        <h3>App4</h3>
-        <p><a href="#">Link to project</a></p>
+
+<body class="container">
+<!-- Image and headings-->
+<div class="row">
+    <div class="col-4 justify-content-start">
+        <img alt="ProfileImage" src="../SampleImages/bean.jpg"></div>
+    <div class="col-8 ">
+        <h1 style="font-family: 'Oswald', sans-serif; font-weight: bold; color: gray" class="row justify-content-end">VENKATA KRISHNA VINEETH MEESALA</h1>
+        <h3 style="font-family: 'Oswald', sans-serif; font-weight: bold; color: gray"  class="row justify-content-end">WEB DEVELOPER</h3>
     </div>
 </div>
 
+<!-- middle images -->
+<hr>
+<div class="row">
+    <div class="col-12">
+        <img alt="mainImage" width="100%" height="auto" class="img-fluid img-thumbnail" src="../SampleImages/Image.png">
+    </div>
+
+    <div>
+        <div>
+            <h2 style="font-family: 'Oswald', sans-serif; font-weight: bold; color: gray" >Featured Work </h2>
+        </div>
+        <div class="row">
+            <div class="col-4">
+                <img class="img-fluid img-thumbnail" alt="IndexImage" src="../SampleImages/app1.png">
+                <h3 style="font-family: 'Oswald', sans-serif; font-weight: bold; color: gray" >App1</h3>
+                <p><a href="#">Link1</a></p>
+            </div>
+            <div class="col-4">
+                <img alt="DevOne" class="img-fluid img-thumbnail" src="../SampleImages/app2.png">
+                <h3 style="font-family: 'Oswald', sans-serif; font-weight: bold; color: gray" >App2</h3>
+                <p><a href="#">Link2</a></p>
+            </div>
+            <div class="col-4">
+                <img alt="devTwo" class="img-fluid img-thumbnail" src="../SampleImages/app3.png">
+                <h3 style="font-family: 'Oswald', sans-serif; font-weight: bold; color: gray">App3</h3>
+                <p><a href="#">Link3</a></p>
+            </div>
+
+        </div>
+    </div>
 
 </body>
 </html>
